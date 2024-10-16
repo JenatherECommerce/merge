@@ -180,13 +180,6 @@ header {
     color: #000;
 }
 
-.suzuki{
-    max-width: 1440px;
-    margin: 0 auto;
-    font-family: Arial, sans-serif;
-    color: black;
-}
-
 .hatchback{
     display: flex;
 }
