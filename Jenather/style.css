@@ -209,6 +209,7 @@ header {
     display: flex;
     justify-content: center;
     position: relative;
+    padding-bottom: 10px;
 }
 
 .card{
@@ -401,6 +402,7 @@ header {
     align-items: center;
     gap: 15px;
     margin-bottom: 15px;
+    justify-content: center;
 }
 
 .card-information{

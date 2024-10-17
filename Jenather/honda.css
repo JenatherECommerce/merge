@@ -126,11 +126,12 @@ header {
     letter-spacing: 5px;
 }
 
-#suv {
+#minivan {
     font-weight: 900;
     font-size: 2em;
     text-align: center;
     padding: 40px 0;
+    letter-spacing: 5px;
 }
 
 #mpv {
@@ -414,7 +415,7 @@ header {
 
 #autoloan {
     position: absolute;
-    top: 3300px;
+    top: 3250px;
     width: 100%;
     height: 100%;
     margin: 0 auto;
@@ -452,7 +453,7 @@ header {
 #bpi {
     position: relative;
     height: 250px;
-    top: 760px;
+    top: 750px;
     background-color: white;
     align-items: center;
 }
@@ -476,7 +477,7 @@ header {
     position: absolute;
     width: 100%;
     height: 250px;
-    top: 4400px;
+    top: 4350px;
     background-color: white;
 }
 
@@ -499,7 +500,7 @@ header {
     position: absolute;
     width: 100%;
     height: 250px;
-    top: 4700px;
+    top: 4650px;
     background-color: white;
     margin: 0 auto;
 }
@@ -523,7 +524,7 @@ header {
     position: absolute;
     width: 100%;
     height: 250px;
-    top: 5000px;
+    top: 4950px;
     background-color: white;
     margin: 0 auto;
 }
@@ -547,7 +548,7 @@ header {
     position: absolute;
     width: 100%;
     height: 250px;
-    top: 5300px;
+    top: 5250px;
     background-color: white;
     margin: 0 auto;
 }
@@ -571,7 +572,7 @@ header {
     position: absolute;
     width: 100%;
     height: 250px;
-    top: 5600px;
+    top: 5550px;
     background-color: white;
     margin: 0 auto;
 }
@@ -595,7 +596,7 @@ header {
     position: absolute;
     width: 100%;
     height: 250px;
-    top: 5900px;
+    top: 5850px;
     background-color: white;
     margin: 0 auto;
 }
@@ -619,7 +620,7 @@ header {
     position: absolute;
     width: 100%;
     height: 250px;
-    top: 6200px;
+    top: 6150px;
     background-color: white;
     margin: 0 auto;
 }
@@ -643,7 +644,7 @@ header {
     position: absolute;
     width: 100%;
     height: 250px;
-    top: 6500px;
+    top: 6450px;
     background-color: white;
     margin: 0 auto;
 }
